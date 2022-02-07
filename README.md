@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idrak28&" alt="idrak28"/></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrak28&layout=compact)](https://github.com/idrak28/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idrak28&repo=github-readme-stats)](https://github.com/idrak28/github-readme-stats)
 
