@@ -9,7 +9,7 @@
 
 
 - 💬 Ask me about ...
-- 📫 How to reach me: ... idrakefaz99@hmail.com
+- 📫 How to reach me: ... idrakefaz99@gmail.com
 
 
 
