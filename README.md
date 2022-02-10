@@ -10,6 +10,7 @@
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ... idrakefaz99@gmail.com
+- ![](https://komarev.com/ghpvc/?username=idrak28&color=138D75&style=flat+square&label=Total+views)
 
 
 
