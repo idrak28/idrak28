@@ -3,9 +3,9 @@
 
 
 
--🔭 I’m currently working on ...HTML&CSS
+-🔭 I’m currently working on ...
 
--🌱 I’m currently learning ...Javascript
+-🌱 I’m currently learning .... Matlab
 
 - 📫 How to reach me: ... idrakefaz99@gmail.com
 - ![](https://komarev.com/ghpvc/?username=idrak28&color=138D75&style=flat+square&label=Total+views)
