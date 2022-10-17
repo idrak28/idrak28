@@ -3,7 +3,7 @@
 
 
 
--🔭 I’m currently working on ...
+-🔭 I’m currently working on ... signal Processing 
 
 -🌱 I’m currently learning .... Python & Mechine Learning
 
