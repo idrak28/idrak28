@@ -3,11 +3,11 @@
 
 
 
--🔭 I’m currently working on ... signal Processing 
+-🔭 I’m currently working on ... 
 
--🌱 I’m currently learning .... Python & Mechine Learning
+-🌱 I’m currently learning .... 
 
-- 📫 How to reach me: ... idrakefaz99@gmail.com
+- 📫 How to reach me: ... 
 - ![](https://komarev.com/ghpvc/?username=idrak28&color=138D75&style=flat+square&label=Total+views)
 
 
