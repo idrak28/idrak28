@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idrak28&label=Profile%20views&color=0e75b6&style=flat" alt="idrak28" /> </p>
 
-- 🌱 I’m currently learning **RTL design , Design Verification & Physical design**
-
 - 📫 How to reach me **idrakefaz99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
