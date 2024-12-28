@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Idrak</h1>
-<h3 align="center">A VLSI Enthusiast  from Bangladesh.</h3>
+<h3 align="center">Tech Enthusiast  from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idrak28&label=Profile%20views&color=0e75b6&style=flat" alt="idrak28" /> </p>
 
